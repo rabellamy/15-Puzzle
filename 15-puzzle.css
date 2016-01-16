@@ -1,0 +1,12 @@
+#puzzle-table{
+	border: 10px solid black;
+	width: 400px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 300%;
+}
+#slot-16{
+	background-color: black;
+}
