@@ -1,0 +1,15 @@
+{
+  "name": "15-puzzle",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.6.9",
+    "compass-options": "^0.1.1",
+    "gulp": "^3.8.11",
+    "gulp-css-target": "^0.1.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-shell": "^0.4.1",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  }
+}

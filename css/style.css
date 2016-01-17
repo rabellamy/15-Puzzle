@@ -1,0 +1,46 @@
+html {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+embed,
+img,
+object,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  text-align: center;
+}
+
+#puzzle-table {
+  border: 10px solid black;
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 300%;
+}
+
+.blank {
+  background-color: black;
+}
+
+#shuffle-board {
+  margin-top: 5%;
+  margin-left: 40%;
+  margin-right: 40%;
+  width: 20%;
+}
+
+td {
+  height: 25%;
+  width: 25%;
+}
